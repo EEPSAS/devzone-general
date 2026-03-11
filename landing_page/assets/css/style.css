@@ -137,10 +137,10 @@ main p {
 
 /* rodape */
 .rodape {
-    background: rgb(8, 8, 8);
+    background: rgb(14, 14, 14);
     border-radius: 10px;
     color: white;
-    padding: 40px 20px 20px 20px;
+    padding: 80px 40px 40px 40px;
 }
 
 .rodape-container {
@@ -187,9 +187,10 @@ main p {
 .rodape-copy {
     text-align: center;
     border-top: 1px solid rgba(73, 73, 73, 0.842);
-    margin-top: 30px;
+    margin-top: 50px;
     padding-top: 15px;
     font-size: 14px;
     color: white;
+    padding: 40px;
 }
 /* /rodape */
